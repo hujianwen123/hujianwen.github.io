@@ -41,8 +41,9 @@ copy:
 # formal:
 #   icon: link || the description
 social:
-  fab fa-github: https://github.com/xxxxx || Github
-  fas fa-envelope: mailto:xxxxxx@gmail.com || Email
+  fab fa-github: https://github.com/hujianwem123 || Github
+  fas fa-envelope: mailto:hjwfree@163.com || Email
+  fab fa-qq: http://wpa.qq.com/msgrd?V=1&amp;Uin=1755730151 || QQ
 
 # search (搜索)
 # --------------------------------------
@@ -133,7 +134,7 @@ error_img:
 # A simple 404 page
 error_404:
   enable: true
-  subtitle: 'Page Not Found'
+  subtitle: '没有该页面哦!'
   background: https://i.loli.net/2020/05/19/aKOcLiyPl2JQdFD.png
 
 post_meta:
@@ -630,7 +631,7 @@ aside:
       enable: true
       icon: fab fa-github
       text: Follow Me
-      link: https://github.com/xxxxxx
+      link: https://github.com/hujianwen123
   card_announcement:
     enable: true
     content: This is my Blog
