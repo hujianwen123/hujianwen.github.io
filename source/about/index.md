@@ -6,7 +6,7 @@ type: "about"
 
 ## Hello word
 
-**姓名** `胡建文`
+**姓名** `建文`
 **性别** `男`
 **生日** `1997`
 **星座** `天蝎`
@@ -33,8 +33,8 @@ public class HelloWorld {
 | 吃饭   |  旅游  |   爬棵勇敢树 |
 | 睡觉 |  宇宙  | 看一本机智书 |
 
-![谢谢你访问我的blog](https://files.mdnice.com/dance.gif)
+<!-- ![谢谢你访问我的blog](https://files.mdnice.com/dance.gif) -->
 
-<![蓝1](https://files.mdnice.com/blue.jpg),![绿2](https://files.mdnice.com/green.jpg),![红3](https://files.mdnice.com/red.jpg)>
+<!-- <![蓝1](https://files.mdnice.com/blue.jpg),![绿2](https://files.mdnice.com/green.jpg),![红3](https://files.mdnice.com/red.jpg)> -->
 
 ---
